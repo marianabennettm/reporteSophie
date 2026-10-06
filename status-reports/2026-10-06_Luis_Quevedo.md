@@ -18,7 +18,7 @@ Desde la sesión del 16/9 el foco fue ordenar la suplementación y eliminar el r
 
 *Informe médico / exámenes*
 • Erick está preparando el informe de devolución con sus exámenes (incluye resultado de Eternal Gut / microbiota). No hay que pedirle exámenes nuevos.
-• Desde el 23/9 Luis pide una cita con Erick. *A hoy (6/10) la sesión médica sigue sin agendarse.* Prefiere presencial; los miércoles le acomodan para consultas.
+• Desde el 23/9 Luis pide una cita con Erick. *A hoy (6/10) la sesión médica sigue sin agendarse.* Prefiere presencial; los miércoles le acomodan para consultas. Hoy a las 11:50 le pedí a Pame coordinar tres cosas: la sesión médica Erick + Luis, la reunión Hans + Luis y la reunión online Erick + Tamara.
 
 *Entrenamiento / Alimentación / Hidratación*
 • Plan acordado: fuerza + natación 2x/semana, FUEL cuando entrene en ayunas (suele entrenar a mediodía) y andar con botella de agua. No tenemos registro de cómo le fue con esto ni de si FUEL iba en la box.
