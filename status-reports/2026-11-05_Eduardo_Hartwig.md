@@ -23,7 +23,7 @@ Head Coach: Mariana. Sigue contento con el programa y responde rápido y con bue
 • 07/10: Erick ajustó la fexofenadina a 30 días en lugar de 3 meses. Ya deberían haberse cumplido; confirmar si la terminó y cómo sigue la congestión. @erick.hubner
 
 *Suplementos*
-• 21/10: retiró la box de octubre y la creatina en la oficina. Los refrigerados quedaron pendientes y el 27/10 dijo que pasaría a buscarlos. [CONFIRMAR si los retiró]
+• Ya tiene todo octubre: retiró la box y la creatina en la oficina el 21/10, y los refrigerados el 27/10.
 • Tiene stock hasta diciembre (incluida una caja guardada de antes). No se dosifica en noviembre. Revisamos su inventario entre el 15 y el 20 de cada mes, fecha que él mismo propuso.
 • El Bonavit está fuera desde septiembre (no le gusta).
 • Sueroterapia: Hans la sugirió para el sistema inmune y el nervioso. Se la propuse el 28/10 y respondió que "está con tanta pastilla que no le hace sentido". Lo retomamos con los próximos exámenes.
@@ -32,7 +32,7 @@ Head Coach: Mariana. Sigue contento con el programa y responde rápido y con bue
 • Créditos: en octubre usó los 13 y quedó con $175.000 sobre el plan (sesiones extra con Vane y HC). Sigue pendiente conversarlo con él antes del cobro. @victoria.alvarez
 • Resonancia de ambas rodillas: orden enviada el 29/09–01/10 (mismo precio una o dos). No hay registro de que se la haya hecho. Él dijo que "no hay apuro".
 • Aldo: completar las 2 sesiones que le faltan del plan de 4.
-• Life Summit (24/10): dijo que haría lo posible por ir un rato. [CONFIRMAR si fue]
+• Asistió al Life Summit (24/10).
 • Marketing tiene pendiente conseguir un testimonio suyo (Hans). Buen momento, porque está muy contento.
 
 *Accionables Eduardo*
@@ -45,7 +45,7 @@ Head Coach: Mariana. Sigue contento con el programa y responde rápido y con bue
 • Cerrar el entrenador de fuerza (2 veces por semana) y el reemplazo de Vane, manteniendo el trabajo postural. @natalia.zazueta @Hans Buckel
 • Armarle el calendario semanal de actividades. @Mariana
 • Conversar con él los créditos y el cobro extra de octubre antes de facturar, considerando que el nuevo plan de entrenamiento también consume créditos. @victoria.alvarez @Mariana
-• Confirmar el retiro de los refrigerados y el fin de la fexofenadina. @pamela.favaro @erick.hubner
+• Confirmar el fin de la fexofenadina y cómo sigue la congestión. @erick.hubner
 • Coordinar con Francisco el desayuno. @ignacia.cabrera
 • Recordarle el inventario el 15/11. @Mariana
 • Retomar la sueroterapia cuando estén los nuevos exámenes. @erick.hubner
