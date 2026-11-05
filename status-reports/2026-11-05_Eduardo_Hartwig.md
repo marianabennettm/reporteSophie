@@ -1,7 +1,7 @@
 *Status Report — Eduardo Hartwig 05/11*
 :large_green_circle: Estable y comprometido. Foco de noviembre: resolver la transición de entrenador (Vane se va de postnatal) sin perder la regularidad que ya instaló.
 
-Head Coach: Mariana. Sigue contento con el programa y responde rápido y con buena disposición. Desde la sesión HC del 21/10 no ha tenido síntomas nuevos. Lo que más le interesa hoy es el ejercicio de fuerza. Prefiere ir a la oficina (vive a 3 minutos) antes que recibir cosas en su casa.
+Head Coach: Mariana. Sigue contento con el programa y responde rápido y con buena disposición. Lo que más le interesa hoy es el ejercicio de fuerza. Prefiere ir a la oficina (vive a 3 minutos) antes que recibir cosas en su casa.
 
 *Entrenamiento*
 • Venía con regularidad instalada: Vane 3 veces por semana, remo de 30 a 40 minutos y caminatas casi diarias de 40 a 60 minutos. En casa camina con pesas de 8 kg y hace fondos de tríceps.
