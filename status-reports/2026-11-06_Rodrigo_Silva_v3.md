@@ -38,14 +38,12 @@ Rodrigo va a jugar pádel este domingo, "no tan duro"; dice que se siente bien. 
 • *Reunión clínica de la próxima semana* con todos los entrenadores y kines (Pedro, Diego, Andrés y Nat), para alinear un solo plan: integrar el hallazgo de Andrés, definir formatos de sesión más cortos y los criterios para volver al pádel.
 
 *Pendientes*
-☐ :red_circle: Avisarle a Andrés lo del pádel del domingo, para que lo evalúe mañana @mariana.bennett
-☐ :red_circle: Agendar la fotobiomodulación y el entrenamiento del viernes 13/11 en la tarde, y el resto de la semana del 9/11 (Pedro y Diego) @pamela.favaro
-☐ :red_circle: Conseguir un traumatólogo que revise las imágenes del codo @natalia.zazueta
-☐ :red_circle: Reservar el espacio en la reunión clínica de la próxima semana con Pedro, Diego, Andrés y Nat @pamela.favaro @erick.hubner
-☐ :large_yellow_circle: Mandar un mail al encargado de compras de su oficina con los links del Kinegun y del ILIB @mariana.bennett
-☐ :large_yellow_circle: Agendar con Andrés la reunión para explicarle la plataforma y que suba su ficha @victoria.alvarez
-☐ :large_yellow_circle: Retirar el Whoop antiguo en su oficina (cualquier entrenador)
-☐ :large_yellow_circle: Capacitación interna sobre los dispositivos (Kinegun, ILIB, Pulsetto, panel de luz roja) @erick.hubner
-☐ :large_green_circle: Le pidió a Ale un tratamiento facial (algo con ADN de salmón). No quedó nada acordado; definir si se ofrece dentro de SOPHI @pamela.favaro
-☐ :large_green_circle: Revisar los datos del Whoop después de una semana (cerca del 10/11) @mariana.bennett
-☐ :large_green_circle: Enviarle la orden de la ecografía de codo (cerca del 14/11) @erick.hubner
+☐ Avisarle a Andrés lo del pádel del domingo, para que lo evalúe mañana @mariana.bennett
+☐ Agendar la fotobiomodulación y el entrenamiento del viernes 13/11 en la tarde, y el resto de la semana del 9/11 (Pedro y Diego) @pamela.favaro
+☐ Reservar el espacio en la reunión clínica de la próxima semana con Pedro, Diego, Andrés y Nat @pamela.favaro @erick.hubner
+☐ Mandar un mail al encargado de compras de su oficina con los links del Kinegun y del ILIB @mariana.bennett
+☐ Agendar con Andrés la reunión para explicarle la plataforma y que suba su ficha @victoria.alvarez
+☐ Retirar el Whoop antiguo en su oficina (cualquier entrenador)
+☐ Capacitación interna sobre los dispositivos (Kinegun, ILIB, Pulsetto, panel de luz roja) @erick.hubner
+☐ Revisar los datos del Whoop después de una semana (cerca del 10/11) @mariana.bennett
+☐ Enviarle la orden de la ecografía de codo (cerca del 14/11) @erick.hubner
