@@ -1,7 +1,7 @@
 *Status Report — Rodrigo Silva* · Amarillo, mejorando · 6 de noviembre
 Cierre de la primera semana de la Fase 2
 
-Rodrigo está bien, de buen ánimo y comprometido con el proceso. La comunicación mejoró mucho: responde por WhatsApp con buena disposición y Alicia agenda más fácil desde que Rodrigo le insiste. La kine con Andrés va muy bien y el suero de hoy lo tuvo contento. El punto débil sigue siendo el entrenamiento: canceló las dos sesiones de esta semana el mismo día. En la llamada de HC de hoy quedó claro que fue por imprevistos laborales, no por falta de ganas, y acordamos ajustes para la próxima semana.
+Rodrigo está bien, de buen ánimo y comprometido con el proceso. La comunicación mejoró mucho: responde por WhatsApp con buena disposición y Alicia agenda más fácil desde que Rodrigo le insiste, aunque todavía no nos manda la agenda del resto de noviembre. La kine con Andrés va muy bien y el suero de hoy lo tuvo contento. El punto débil sigue siendo el entrenamiento: canceló las dos sesiones de esta semana el mismo día. En la llamada de HC de hoy quedó claro que fue por imprevistos laborales, no por falta de ganas, y acordamos ajustes para la próxima semana.
 
 :dart: Foco: recuperar su codo, para volver a jugar pádel lo antes posible
 
@@ -33,12 +33,14 @@ Rodrigo va a jugar pádel este domingo, "no tan duro"; dice que se siente bien. 
 • *Microobjetivo de la semana (lo eligió él): no tomar café desde las 13:00.*
 
 *Importante resolver*
+• *Agenda del resto de noviembre:* el 5/11 Pame le pidió a Alicia por mail la agenda de las próximas 2 semanas, para agendar los entrenamientos (Pedro, Diego o Nat, 1 h, idealmente 2 veces por semana), la kine con Andrés (sábados), los sueros y la fotobiomodulación. Todavía no la manda, así que le pedimos a Rodrigo que le insista.
 • *Traumatólogo para las imágenes del codo:* le vamos a preguntar a Andrés si tiene algún contacto. Nat lo está viendo.
 • *Registro de cada sesión en su ficha:* Pedro, Diego, Nat y Andrés. Andrés todavía no sube su ficha porque no puede entrar a la plataforma.
 • *Reunión clínica de la próxima semana* con todos los entrenadores y kines (Pedro, Diego, Andrés y Nat), para alinear un solo plan: integrar el hallazgo de Andrés, definir formatos de sesión más cortos y los criterios para volver al pádel.
 
 *Pendientes*
 ☐ Avisarle a Andrés lo del pádel del domingo, para que lo evalúe mañana @mariana.bennett
+☐ Seguimiento a la agenda de noviembre con Alicia (Rodrigo ya le va a insistir) @pamela.favaro
 ☐ Agendar la fotobiomodulación y el entrenamiento del viernes 13/11 en la tarde, y el resto de la semana del 9/11 (Pedro y Diego) @pamela.favaro
 ☐ Reservar el espacio en la reunión clínica de la próxima semana con Pedro, Diego, Andrés y Nat @pamela.favaro @erick.hubner
 ☐ Mandar un mail al encargado de compras de su oficina con los links del Kinegun y del ILIB @mariana.bennett
